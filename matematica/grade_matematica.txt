@@ -1,0 +1,56 @@
+Introdução à Computação
+Introdução a Probabilidade e a Estatística I
+Cálculo Diferencial e Integral I
+Vetores e Geometria
+Números Inteiros: Uma Introdução à Matemática
+Física I
+      MAT0111 - Cálculo Diferencial e Integral I
+      MAT0112 - Vetores e Geometria
+MAC0122	Princípios de Desenvolvimento de Algoritmos
+      MAC0110 - Introdução à Computação
+MAE0212	Introdução à Probabilidade e à Estatística II
+     MAE0121 - Introdução a Probabilidade e a Estatística I
+MAE0212	Introdução à Probabilidade e à Estatística II
+      MAE0121 - Introdução a Probabilidade e a Estatística I
+MAT0122	Álgebra Linear I
+      MAT0112 - Vetores e Geometria
+4310137	Física II
+     4310126 - Física I
+MAT0205	Cálculo Diferencial e Integral III
+      MAT0112 - Vetores e Geometria
+      MAT0121 - Cálculo Diferencial e Integral II
+MAT0206	Análise Real
+      MAT0121 - Cálculo Diferencial e Integral II
+MAT0222	Álgebra Linear II
+      MAT0122 - Álgebra Linear I
+MAT0264	Anéis e Corpos
+      MAT0164 - Números Inteiros: Uma Introdução à Matemática
+MAT0225	Funções Analíticas
+      MAT0205 - Cálculo Diferencial e Integral III
+      MAT0206 - Análise Real
+MAT0226	Equações Diferenciais I
+      MAT0122 - Álgebra Linear I
+      MAT0206 - Análise Real
+MAT0265	Grupos
+      MAT0164 - Números Inteiros: Uma Introdução à Matemática
+MAT0311	Cálculo Diferencial e Integral V
+      MAT0122 - Álgebra Linear I
+      MAT0206 - Análise Real
+MAT0317	Topologia	
+4
+0
+60
+      MAT0122 - Álgebra Linear I	
+  Requisito
+      MAT0206 - Análise Real	
+  Requisito
+MAT0321	Cálculo Integral	
+4
+0
+60
+      MAT0311 - Cálculo Diferencial e Integral V	
+  Requisito
+MAT0364	Teoria de Galois
+      MAT0264 - Anéis e Corpos
+  Requisito
+      MAT0265 - Grupos
